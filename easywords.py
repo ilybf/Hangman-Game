@@ -1,0 +1,1 @@
+easy = ["cat", "dog", "sun", "book", "pen", "fish", "milk", "car", "tree", "hat"]

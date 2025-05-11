@@ -1,0 +1,1 @@
+medium = ["python", "planet", "laptop", "guitar", "flower", "button", "window","doctor", "school", "orange"]

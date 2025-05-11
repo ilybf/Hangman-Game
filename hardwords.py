@@ -1,0 +1,1 @@
+hard = ["algorithm", "framework", "developer", "keyboard", "internet", "function", "variable", "condition", "application", "database"]
